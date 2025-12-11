@@ -1,1 +1,6 @@
-# QEMU-windows-7
+# install 
+
+```sh
+wget https://archive.org/download/en_windows_7_ultimate_with_sp1_x64_dvd_u_677332_202006/en_windows_7_ultimate_with_sp1_x64_dvd_u_677332.iso
+```
+
